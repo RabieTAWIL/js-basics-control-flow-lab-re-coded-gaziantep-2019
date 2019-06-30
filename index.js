@@ -1,4 +1,4 @@
-function scuberGreetingForFeet(){
+function scuberGreetingForFeet(400){
   // Write your code here!
   if (scuberGreetingForFeet <= 400){
     result = "This one is on me!";
