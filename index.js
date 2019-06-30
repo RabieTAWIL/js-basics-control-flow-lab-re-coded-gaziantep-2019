@@ -31,7 +31,7 @@ function switchOnCharmFromTip(Tips){
   let x = "generous";
   let y = "not as generous";
   
-  if (Tips = "generous"){
+  if (Tips = x){
     tipAnswer = "Thank you so much.";
   }
   else if (Tips = "not as generous"){
