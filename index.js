@@ -22,6 +22,7 @@ function ternaryCheckCity(city){
   else{
     forCity = "No go.";
   }
+  return forCity;
 }
 
 function switchOnCharmFromTip(){
