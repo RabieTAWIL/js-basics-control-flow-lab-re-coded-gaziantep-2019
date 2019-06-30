@@ -32,6 +32,9 @@ function switchOnCharmFromTip(Tips){
     tipAnswer = "Thank you so much.";
   }
   else if (Tips > charge){
+    tipAnswer = "Thank you.";
+  }
+  else {
     tipAnswer = ""
   }
 }
