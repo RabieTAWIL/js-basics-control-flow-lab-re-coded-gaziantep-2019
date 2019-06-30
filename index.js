@@ -15,7 +15,10 @@ function scuberGreetingForFeet(feetValue){
 
 function ternaryCheckCity(city){
   // Write your code here!
-  
+  let forCity;
+  if (city === "NYC"){
+    
+  }
 }
 
 function switchOnCharmFromTip(){
