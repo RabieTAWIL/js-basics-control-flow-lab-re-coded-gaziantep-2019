@@ -34,7 +34,7 @@ function switchOnCharmFromTip(Tips){
   if (Tips = x){
     tipAnswer = "Thank you so much.";
   }
-  else if (Tips = "not as generous"){
+  else if (Tips = y){
     tipAnswer = "Thank you.";
   }
   else {
