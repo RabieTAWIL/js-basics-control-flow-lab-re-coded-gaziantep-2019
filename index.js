@@ -4,6 +4,9 @@ function scuberGreetingForFeet(){
     result = "This one is on me!";
   }
   else if (scuberGreetingForFeet <= 200){
+    result = "I will gladly take your thirty bucks.";
+  }
+  else {
     result = ""
   }
 }
