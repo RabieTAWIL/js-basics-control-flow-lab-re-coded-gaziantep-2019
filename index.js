@@ -2,14 +2,15 @@ function scuberGreetingForFeet(feetValue){
   // Write your code here!
   let charge;
   if (feetValue <= 400){
-    result = "This one is on me!";
+    charge = "This one is on me!";
   }
   else if (feetValue > 2000 && feetValue <= 2500){
-    result = "I will gladly take your thirty bucks.";
+    charge = "I will gladly take your thirty bucks.";
   }
   else {
-    result = "No can do.";
+    charge = "No can do.";
   }
+  return charge;
 }
 
 function ternaryCheckCity(){
