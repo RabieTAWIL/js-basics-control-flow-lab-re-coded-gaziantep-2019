@@ -20,7 +20,7 @@ function ternaryCheckCity(city){
     forCity = "Ok, sounds good.";
   }
   else{
-    forCity = ""
+    forCity = "No go.";
   }
 }
 
